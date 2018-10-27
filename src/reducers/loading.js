@@ -9,3 +9,4 @@ export default function loading (state = true, action) {
     default :
       return state
   }
+}
